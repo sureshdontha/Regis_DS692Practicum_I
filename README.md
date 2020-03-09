@@ -3,6 +3,14 @@
 
 
 ##### Uploaded files are: 
-    TEXASAccidentsDataAnalysis.ipynb
-    US_Accidents_Dec19_TX_Cleaned.zip (data file zipped to compress for github purpose)
+    1.  TEXASAccidentsDataAnalysis.ipynb
+    2.  US_Accidents_Dec19_TX_Cleaned.zip (data file zipped to compress for github purpose)
     
+
+
+Inline-style: 
+![alt text](https://github.com/sureshdontha/Regis_DS692Practicum_I/blob/master/Texas_Accidents_Data_Choropleth_map.png "Texas_Accidents_Data_Choropleth_map")
+
+
+
+
