@@ -25,7 +25,8 @@ https://www.kaggle.com/sobhanmoosavi/us-accidents#US_Accidents_Dec19.csv
 https://arxiv.org/pdf/1906.05409.pdf
 • Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights
 https://arxiv.org/pdf/1909.09638.pdf
-
+• How You Can Avoid Car Accident in 2020
+https://medium.com/@RonghuiZhou/how-you-can-avoid-car-accident-in-2020-c9626c9b6f68
 
 
 
